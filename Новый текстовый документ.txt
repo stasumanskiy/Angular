@@ -1,3 +1,0 @@
-доступ к базе проекта CRM
-name: root-stas
-pass: MHEx7wW3lywG4qAA
